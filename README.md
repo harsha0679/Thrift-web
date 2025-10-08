@@ -165,10 +165,8 @@ Contributions are welcome!
 
 ```
 
----
 
-Would you like me to make a **version with images & badges** (GitHub stars, Next.js logo, Supabase logo, etc.) for a more **professional portfolio look**?
-```
+
 
 
 
