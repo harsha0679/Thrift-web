@@ -142,7 +142,10 @@ Contributions are welcome!
 
 
 [home page](./public/screenshots/desk3.png)
+
+
 [sign in ](./public/screenshots/desk2.png)
+
 [Browse page](./public/screenshots/desk1.png)
 
 
@@ -166,5 +169,6 @@ Contributions are welcome!
 
 Would you like me to make a **version with images & badges** (GitHub stars, Next.js logo, Supabase logo, etc.) for a more **professional portfolio look**?
 ```
+
 
 
